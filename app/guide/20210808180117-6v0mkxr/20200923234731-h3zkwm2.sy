@@ -1,0 +1,2112 @@
+{
+	"ID": "20200923234731-h3zkwm2",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "2753",
+		"id": "20200923234731-h3zkwm2",
+		"title": "FAQ",
+		"type": "doc",
+		"updated": "20220909101124"
+	},
+	"Children": [
+		{
+			"ID": "20220617163213-hi1dwyc",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220617163213-hi1dwyc",
+				"updated": "20220617163217"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Is SiYuan right for me? Or how should I choose note-taking software?"
+				}
+			]
+		},
+		{
+			"ID": "20220617163213-bjhtwoj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220617163213-bjhtwoj",
+				"updated": "20220617192556"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "This question varies from person to person and is difficult to answer uniformly. If you're not sure if SiYuan is right for you, here are some suggestions:"
+				}
+			]
+		},
+		{
+			"ID": "20220617163213-8m8nof9",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220617163213-8m8nof9",
+				"updated": "20220617163213"
+			},
+			"Children": [
+				{
+					"ID": "20220617163213-ekou4g4",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220617163213-ekou4g4",
+						"updated": "20220617163213"
+					},
+					"Children": [
+						{
+							"ID": "20220617163213-5vuw940",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220617163213-5vuw940",
+								"updated": "20220617163213"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "If you need to frequently share notes or edit collaboratively with others, and need the data table function, it is recommended to use:"
+								}
+							]
+						},
+						{
+							"ID": "20220617163213-56vq18j",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20220617163213-56vq18j",
+								"updated": "20220617163213"
+							},
+							"Children": [
+								{
+									"ID": "20220617163213-pxr6nxf",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220617163213-pxr6nxf",
+										"updated": "20220617163213"
+									},
+									"Children": [
+										{
+											"ID": "20220617163213-azazolb",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220617163213-azazolb",
+												"updated": "20220617163213"
+											},
+											"Children": [
+												{
+													"Type": "NodeTextMark",
+													"TextMarkType": "a",
+													"TextMarkAHref": "https://www.notion.so/",
+													"TextMarkTextContent": "Notion - One workspace. Every team."
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220617163213-g7q9k06",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220617163213-g7q9k06",
+						"updated": "20220617163213"
+					},
+					"Children": [
+						{
+							"ID": "20220617163213-83p9z7r",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220617163213-83p9z7r",
+								"updated": "20220617163213"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "If you like to use plain text Markdown files to store your notes, it is recommended to use:"
+								}
+							]
+						},
+						{
+							"ID": "20220617163213-5bsou7q",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20220617163213-5bsou7q",
+								"updated": "20220617163213"
+							},
+							"Children": [
+								{
+									"ID": "20220617163213-if0td89",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220617163213-if0td89",
+										"updated": "20220617163213"
+									},
+									"Children": [
+										{
+											"ID": "20220617163213-b5swgm1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220617163213-b5swgm1",
+												"updated": "20220617163213"
+											},
+											"Children": [
+												{
+													"Type": "NodeTextMark",
+													"TextMarkType": "a",
+													"TextMarkAHref": "https://obsidian.md/",
+													"TextMarkTextContent": "Obsidian - A second brain, for you, forever."
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220617163213-z8ff8bm",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220617163213-z8ff8bm",
+										"updated": "20220617163213"
+									},
+									"Children": [
+										{
+											"ID": "20220617163213-ugibn2h",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220617163213-ugibn2h",
+												"updated": "20220617163213"
+											},
+											"Children": [
+												{
+													"Type": "NodeTextMark",
+													"TextMarkType": "a",
+													"TextMarkAHref": "https://logseq.com/",
+													"TextMarkTextContent": "Logseq - A privacy-first, open-source knowledge base"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210428222532-nfvnq4d",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210428222532-nfvnq4d",
+				"updated": "20210428222834"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "How does SiYuan store data?"
+				}
+			]
+		},
+		{
+			"ID": "20210428222603-g1752n7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210428222603-g1752n7",
+				"updated": "20210512152404"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "The data is saved in the workspace folder (the default is in the user's home directory Documents/SiYuan, which can be modified in "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "kbd",
+					"TextMarkTextContent": "Settings"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " - "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "kbd",
+					"TextMarkTextContent": "About"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "), in the workspace data folder:"
+				}
+			]
+		},
+		{
+			"ID": "20210428222603-moih9fe",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210428222603-moih9fe",
+				"updated": "20220329160456"
+			},
+			"Children": [
+				{
+					"ID": "20210428222603-gxgx3vi",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210428222603-gxgx3vi",
+						"updated": "20220329160450"
+					},
+					"Children": [
+						{
+							"ID": "20210428222603-0goch51",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210428222603-0goch51",
+								"updated": "20220329160450"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "assets"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " are used to save all inserted "
+								},
+								{
+									"Type": "NodeBlockRef",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20200924100744-br924ar"
+										},
+										{
+											"Type": "NodeBlockRefSpace"
+										},
+										{
+											"Type": "NodeBlockRefText",
+											"Data": "assets"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210428222603-vtr89xq",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210428222603-vtr89xq",
+						"updated": "20210824200933"
+					},
+					"Children": [
+						{
+							"ID": "20210428222603-criebuv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210428222603-criebuv",
+								"updated": "20210824200933"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "templates"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " are used to save "
+								},
+								{
+									"Type": "NodeBlockRef",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20201204184532-3qm9l8n"
+										},
+										{
+											"Type": "NodeBlockRefSpace"
+										},
+										{
+											"Type": "NodeBlockRefText",
+											"Data": "template snippets"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210428222603-456vgdh",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210428222603-456vgdh",
+						"updated": "20220329160456"
+					},
+					"Children": [
+						{
+							"ID": "20210428222603-m3djncm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210428222603-m3djncm",
+								"updated": "20220329160456"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "widgets"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " are used to save "
+								},
+								{
+									"Type": "NodeBlockRef",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20210824202056-udkf7wg"
+										},
+										{
+											"Type": "NodeBlockRefSpace"
+										},
+										{
+											"Type": "NodeBlockRefText",
+											"Data": "widgets"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210826092337-pt1yd7r",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210826092337-pt1yd7r",
+						"updated": "20220226130622"
+					},
+					"Children": [
+						{
+							"ID": "20210826092337-swh0gdd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210826092337-swh0gdd",
+								"updated": "20220226130622"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "emojis"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " are used to save emoji images"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210428222603-27so3jy",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210428222603-27so3jy"
+					},
+					"Children": [
+						{
+							"ID": "20210428222603-pwyr56t",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210428222603-pwyr56t",
+								"updated": "20210512152423"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "The rest of the folders are the notebook folders created by the user, files with the suffix of "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": ".sy"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " in the notebook folder are used to save the document data, and the data format is JSON"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211129190925-mzmhh3v",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211129190925-mzmhh3v",
+				"updated": "20211129190928"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Is SiYuan open source?"
+				}
+			]
+		},
+		{
+			"ID": "20220526112843-3ufaqy8",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220526112843-3ufaqy8",
+				"updated": "20220526112843"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "SiYuan is completely open source, and contributions are welcome:"
+				}
+			]
+		},
+		{
+			"ID": "20220526112843-xbvl2ni",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220526112843-xbvl2ni",
+				"updated": "20220808132857"
+			},
+			"Children": [
+				{
+					"ID": "20220526112843-p7zhonk",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220526112843-p7zhonk",
+						"updated": "20220526112843"
+					},
+					"Children": [
+						{
+							"ID": "20220526112843-ivai3f9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220526112843-ivai3f9",
+								"updated": "20220526112843"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "a",
+									"TextMarkAHref": "https://github.com/siyuan-note/siyuan",
+									"TextMarkTextContent": "User Interface and Kernel"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220526112843-br8thvh",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220526112843-br8thvh",
+						"updated": "20220526112843"
+					},
+					"Children": [
+						{
+							"ID": "20220526112843-q3ckr5q",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220526112843-q3ckr5q",
+								"updated": "20220615152158"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "a",
+									"TextMarkAHref": "https://github.com/siyuan-note/user-guide-en_US",
+									"TextMarkTextContent": "User Guide"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " and "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "a",
+									"TextMarkAHref": "https://github.com/siyuan-note/appearance",
+									"TextMarkTextContent": "Appearance"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220526112843-rnr85gt",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220526112843-rnr85gt",
+						"updated": "20220808132857"
+					},
+					"Children": [
+						{
+							"ID": "20220526112843-mj4iy0b",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220526112843-mj4iy0b",
+								"updated": "20220808132857"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "a",
+									"TextMarkAHref": "https://github.com/88250/lute",
+									"TextMarkTextContent": "Editor Engine"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220526112843-dh5azqr",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220526112843-dh5azqr",
+						"updated": "20220526112843"
+					},
+					"Children": [
+						{
+							"ID": "20220526112843-p1pn0w7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220526112843-p1pn0w7",
+								"updated": "20220615152221"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "a",
+									"TextMarkAHref": "https://github.com/siyuan-note/encryption",
+									"TextMarkTextContent": "End-to-end encryption"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " and "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "a",
+									"TextMarkAHref": "https://github.com/siyuan-note/dejavu",
+									"TextMarkTextContent": "Data repo"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220526112843-gruql45",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220526112843-gruql45",
+						"updated": "20220526112843"
+					},
+					"Children": [
+						{
+							"ID": "20220526112843-fncmbjl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220526112843-fncmbjl",
+								"updated": "20220526112843"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "a",
+									"TextMarkAHref": "https://github.com/siyuan-note/siyuan-chrome",
+									"TextMarkTextContent": "Chrome Clipping Extension"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220526112843-qwi3jan",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220526112843-qwi3jan",
+						"updated": "20220615152228"
+					},
+					"Children": [
+						{
+							"ID": "20220526112843-lvjzpyf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220526112843-lvjzpyf",
+								"updated": "20220615152228"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "a",
+									"TextMarkAHref": "https://github.com/siyuan-note/siyuan-android",
+									"TextMarkTextContent": "Android"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " and "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "a",
+									"TextMarkAHref": "https://github.com/siyuan-note/siyuan-ios",
+									"TextMarkTextContent": "iOS"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220526112843-epfwhb9",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220526112843-epfwhb9",
+				"updated": "20220526112843"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "For more details, please refer to "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "a",
+					"TextMarkAHref": "https://github.com/siyuan-note/siyuan/blob/master/.github/CONTRIBUTING.md",
+					"TextMarkTextContent": "Development Guide"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "."
+				}
+			]
+		},
+		{
+			"ID": "20220909100946-x94gyft",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220909100946-x94gyft",
+				"updated": "20220909100946"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "How to upgrade to a new version?"
+				}
+			]
+		},
+		{
+			"ID": "20220909100946-nieof3y",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220909100946-nieof3y",
+				"updated": "20220909101032"
+			},
+			"Children": [
+				{
+					"ID": "20220909100946-zpelmha",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220909100946-zpelmha",
+						"updated": "20220909100946"
+					},
+					"Children": [
+						{
+							"ID": "20220909100946-8qnhzi2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220909100946-8qnhzi2",
+								"updated": "20220909100946"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "If installed via app store, please update via app store"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220909100946-ej9yi4j",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220909100946-ej9yi4j",
+						"updated": "20220909101032"
+					},
+					"Children": [
+						{
+							"ID": "20220909100946-n3d5619",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220909100946-n3d5619",
+								"updated": "20220909101032"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "If it is installed through the installation package on the desktop, you can open the option of "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "kbd",
+									"TextMarkTextContent": "Settings"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "kbd",
+									"TextMarkTextContent": "About"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "kbd",
+									"TextMarkTextContent": "Automatically download update installation package"
+								},
+								{
+									"Type": "NodeText",
+									"Data": ", so that SiYuan will automatically download The latest version of the installation package and prompts to install"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220909100946-kw38sog",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220909100946-kw38sog",
+						"updated": "20220909100946"
+					},
+					"Children": [
+						{
+							"ID": "20220909100946-3n9cy34",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220909100946-3n9cy34",
+								"updated": "20220909100946"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "If it is installed by manual installation package, please download the installation package again to install"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220909100946-9eyc3uh",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220909100946-9eyc3uh",
+				"updated": "20220909101124"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "You can "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "kbd",
+					"TextMarkTextContent": "Check update"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " in "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "kbd",
+					"TextMarkTextContent": "Settings"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " - "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "kbd",
+					"TextMarkTextContent": "About"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " - "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "kbd",
+					"TextMarkTextContent": "Current Version"
+				},
+				{
+					"Type": "NodeText",
+					"Data": ", or by following "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "a",
+					"TextMarkAHref": "https ://github.com/siyuan-note/siyuan/releases",
+					"TextMarkTextContent": "GitHub Releases"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " or "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "a",
+					"TextMarkAHref": "https://ld246.com/tag/siyuan-announcement",
+					"TextMarkTextContent": "SiYuan Announcement"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " to get the new version."
+				}
+			]
+		},
+		{
+			"ID": "20220909100946-k0d6ska",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220909100946-k0d6ska",
+				"updated": "20220909100946"
+			},
+			"Children": [
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "tag",
+					"TextMarkTextContent": "Note"
+				},
+				{
+					"Type": "NodeText",
+					"Data": ": Do not place the workspace in the installation directory, because the updated version will clear all files in the installation directory"
+				}
+			]
+		},
+		{
+			"ID": "20201224120448-ygu8bzx",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20201224120448-ygu8bzx",
+				"updated": "20211009092454"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Is there any "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "tag",
+					"TextMarkTextContent": "Note"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " for deleting docs?"
+				}
+			]
+		},
+		{
+			"ID": "20210615213114-fq2uew0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210615213114-fq2uew0",
+				"updated": "20220502163309"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "After deletion, the doc will not appear in the operating system's recycle bin, but will be deleted directly. When deleted, SiYuan will generate "
+				},
+				{
+					"Type": "NodeBlockRef",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20210615213222-vs5tzbd"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefText",
+							"Data": "data history"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "."
+				}
+			]
+		},
+		{
+			"ID": "20210106192438-on2fb5k",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210106192438-on2fb5k"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "How can I just wrap and not start a new paragraph?"
+				}
+			]
+		},
+		{
+			"ID": "20210106192504-pgryxb1",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210106192504-pgryxb1",
+				"updated": "20210417112701"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please use "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "kbd",
+					"TextMarkTextContent": "Shift+Enter"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "."
+				}
+			]
+		},
+		{
+			"ID": "20210710113628-6qfvp51",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210710113628-6qfvp51",
+				"updated": "20210710113717"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "How to move the heading and blocks below it?"
+				}
+			]
+		},
+		{
+			"ID": "20210710113628-kfwkvcr",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210710113628-kfwkvcr",
+				"updated": "20220501230352"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Fold the heading and move it later. Please note that it is a move, not a cut, and a folded heading cut will not move the blocks below it."
+				}
+			]
+		},
+		{
+			"ID": "20210917110928-2bvjnqv",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210917110928-2bvjnqv",
+				"updated": "20210917110932"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "How to select multiple blocks across pages?"
+				}
+			]
+		},
+		{
+			"ID": "20210917110928-tn4km8c",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210917110928-tn4km8c",
+				"updated": "20210917110928"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Click at the beginning, hold down "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "kbd",
+					"TextMarkTextContent": "Shift"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " and click at the end after scrolling the page."
+				}
+			]
+		},
+		{
+			"ID": "20220611225313-5g3k4q9",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220611225313-5g3k4q9",
+				"updated": "20220611225313"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "How to do find and replace?"
+				}
+			]
+		},
+		{
+			"ID": "20220611225313-frtsm0p",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220611225313-frtsm0p",
+				"updated": "20220611225313"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Press "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "kbd",
+					"TextMarkTextContent": "Ctrl+R"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " after selecting the keyword in the editor."
+				}
+			]
+		},
+		{
+			"ID": "20220709125521-z3airid",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220709125521-z3airid",
+				"updated": "20220709130711"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "How to insert the same inline element to the left of an existing inline element?"
+				}
+			]
+		},
+		{
+			"ID": "20220709125521-toztfnl",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220709125521-toztfnl",
+				"updated": "20220709130704"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Ambiguity may occur when using Markdown markers to insert, please refer to "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "a",
+					"TextMarkAHref": "https://github.com/siyuan-note/siyuan/issues/5372",
+					"TextMarkTextContent": "here"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " for details. Please use "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "/"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " or the corresponding shortcut key for inline elements to insert."
+				}
+			]
+		},
+		{
+			"ID": "20220501231348-sx3l5qp",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220501231348-sx3l5qp",
+				"updated": "20220501231357"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "What if some blocks (such as paragraph blocks in list items) cannot find the block icon?"
+				}
+			]
+		},
+		{
+			"ID": "20220501231348-bfslmf5",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220501231348-bfslmf5",
+				"updated": "20220501231419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "The first sub-block under the list item is the block icon omitted. You can move the cursor into this block and trigger its block menu with "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "kbd",
+					"TextMarkTextContent": "Ctrl+/"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " ."
+				}
+			]
+		},
+		{
+			"ID": "20220711123529-bjd0rvv",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220711123529-bjd0rvv",
+				"updated": "20220711123529"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Why can't some online pictures be viewed?"
+				}
+			]
+		},
+		{
+			"ID": "20220711123529-xgrcde0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220711123529-xgrcde0",
+				"updated": "20220711123705"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "In order to avoid some potential security problems, SiYuan will not bypass the security header verification (such as security policy header and anti-leech verification) of the target site when initiating Internet service requests. You can try the "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "Convert network images to local images"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " function in the "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "code",
+					"TextMarkTextContent": "..."
+				},
+				{
+					"Type": "NodeText",
+					"Data": " in the upper right corner of the editor to pull the network image to the local, so that even if the target site changes the security policy or the local image is unavailable later, it will not be affected."
+				}
+			]
+		},
+		{
+			"ID": "20220615153446-i8gpnt2",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220615153446-i8gpnt2",
+				"updated": "20220615153446"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "How to share notes?"
+				}
+			]
+		},
+		{
+			"ID": "20220615153446-zufy5mm",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220615153446-zufy5mm",
+				"updated": "20220615153525"
+			},
+			"Children": [
+				{
+					"ID": "20220615153446-j8izdpx",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220615153446-j8izdpx",
+						"updated": "20220615153525"
+					},
+					"Children": [
+						{
+							"ID": "20220615153446-mm04qjn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220615153446-mm04qjn",
+								"updated": "20220615153525"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Export and import "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": ".sy.zip"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " package"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220615153446-xatayy7",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220615153446-xatayy7",
+						"updated": "20220615153512"
+					},
+					"Children": [
+						{
+							"ID": "20220615153446-2f54afd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220615153446-2f54afd",
+								"updated": "20220615153512"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Via network hosting"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220615153446-dlcpq8t",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220615153446-dlcpq8t",
+						"updated": "20220615153515"
+					},
+					"Children": [
+						{
+							"ID": "20220615153446-vp4d7u6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220615153446-vp4d7u6",
+								"updated": "20220615153515"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Export and i"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "mport Markdown"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220615153446-gnwpvme",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220615153446-gnwpvme",
+						"updated": "20220615153446"
+					},
+					"Children": [
+						{
+							"ID": "20220615153446-p54g6hl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220615153446-p54g6hl",
+								"updated": "20220615153446"
+							},
+							"Children": [
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "kbd",
+									"TextMarkTextContent": "Export Preview"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " to copy to third-party online services"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220615153446-qqqtcoj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220615153446-qqqtcoj",
+				"updated": "20220615153446"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "The first two methods can guarantee the original semantics of the data."
+				}
+			]
+		},
+		{
+			"ID": "20220808181753-3ligpvz",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220808181753-3ligpvz",
+				"updated": "20220808181753"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Does it support data synchronization through a third-party sync disk?"
+				}
+			]
+		},
+		{
+			"ID": "20220808181718-tcv74v2",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220808181718-tcv74v2",
+				"updated": "20220808181719"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Data synchronization through third-party synchronization disks is not supported, otherwise data may be corrupted. Consider manually exporting and importing Data for data synchronization:"
+				}
+			]
+		},
+		{
+			"ID": "20220619172044-z4myy48",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220619172044-z4myy48",
+				"updated": "20220619172044"
+			},
+			"Children": [
+				{
+					"ID": "20220619172044-451fqpf",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220619172044-451fqpf",
+						"updated": "20220619172044"
+					},
+					"Children": [
+						{
+							"ID": "20220619172044-bx4v3iz",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220619172044-bx4v3iz",
+								"updated": "20220619172044"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Desktop: "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "kbd",
+									"TextMarkTextContent": "Settings"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "kbd",
+									"TextMarkTextContent": "Export"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "kbd",
+									"TextMarkTextContent": "Export Data"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " / "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "kbd",
+									"TextMarkTextContent": "Import Data"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220619172044-r6xfdvm",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220619172044-r6xfdvm",
+						"updated": "20220619172044"
+					},
+					"Children": [
+						{
+							"ID": "20220619172044-ccusmko",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220619172044-ccusmko",
+								"updated": "20220619172044"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Mobile: "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "kbd",
+									"TextMarkTextContent": "Right column"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "kbd",
+									"TextMarkTextContent": "About"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "kbd",
+									"TextMarkTextContent": "Export Data"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " / "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "kbd",
+									"TextMarkTextContent": "Import Data"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220708111435-xmj42q4",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220708111435-xmj42q4",
+				"updated": "20220708111439"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "What should I do if the data repo key is lost?"
+				}
+			]
+		},
+		{
+			"ID": "20220708111435-a2z4tpd",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220708111435-a2z4tpd",
+				"updated": "20220708111614"
+			},
+			"Children": [
+				{
+					"ID": "20220708111435-kw4fp2b",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220708111435-kw4fp2b",
+						"updated": "20220708111614"
+					},
+					"Children": [
+						{
+							"ID": "20220708111435-2ozs1pt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220708111435-2ozs1pt",
+								"updated": "20220708111614"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "If the data repo key is correctly initialized on multiple devices before, the key is the same on all devices and can be set in "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "kbd",
+									"TextMarkTextContent": "Settings"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "kbd",
+									"TextMarkTextContent": "About"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "kbd",
+									"TextMarkTextContent": "Data repo key"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "kbd",
+									"TextMarkTextContent": "Copy key string"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " retrieve"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220708111435-ptoqng0",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220708111435-ptoqng0",
+						"updated": "20220708111603"
+					},
+					"Children": [
+						{
+							"ID": "20220708111435-vqcxyea",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220708111435-vqcxyea",
+								"updated": "20220708111435"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "If it has not been configured correctly before (for example, the keys on multiple devices are inconsistent) or all devices are unavailable and the key string cannot be obtained, you can reset the key by following the steps below:"
+								}
+							]
+						},
+						{
+							"ID": "20220708111435-w2hbl28",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1
+							},
+							"Properties": {
+								"id": "20220708111435-w2hbl28",
+								"updated": "20220708111603"
+							},
+							"Children": [
+								{
+									"ID": "20220708111435-nev43mp",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "MS4=",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20220708111435-nev43mp",
+										"updated": "20220708111435"
+									},
+									"Children": [
+										{
+											"ID": "20220708111435-zrahxh3",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220708111435-zrahxh3",
+												"updated": "20220708111435"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Manually back up the data, you can use "
+												},
+												{
+													"Type": "NodeTextMark",
+													"TextMarkType": "kbd",
+													"TextMarkTextContent": "Export Data"
+												},
+												{
+													"Type": "NodeText",
+													"Data": " or directly copy the "
+												},
+												{
+													"Type": "NodeTextMark",
+													"TextMarkType": "kbd",
+													"TextMarkTextContent": "workspace/data/"
+												},
+												{
+													"Type": "NodeText",
+													"Data": " folder on the file system"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220708111435-extloil",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "Mi4=",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20220708111435-extloil",
+										"updated": "20220708111603"
+									},
+									"Children": [
+										{
+											"ID": "20220708111435-cjteir8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220708111435-cjteir8",
+												"updated": "20220708111603"
+											},
+											"Children": [
+												{
+													"Type": "NodeTextMark",
+													"TextMarkType": "kbd",
+													"TextMarkTextContent": "Settings"
+												},
+												{
+													"Type": "NodeText",
+													"Data": " - "
+												},
+												{
+													"Type": "NodeTextMark",
+													"TextMarkType": "kbd",
+													"TextMarkTextContent": "About"
+												},
+												{
+													"Type": "NodeText",
+													"Data": " - "
+												},
+												{
+													"Type": "NodeTextMark",
+													"TextMarkType": "kbd",
+													"TextMarkTextContent": "Data rep key"
+												},
+												{
+													"Type": "NodeText",
+													"Data": " - "
+												},
+												{
+													"Type": "NodeTextMark",
+													"TextMarkType": "kbd",
+													"TextMarkTextContent": "Reset data repo"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220708111435-29zhnwl",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "My4=",
+										"Num": 3
+									},
+									"Properties": {
+										"id": "20220708111435-29zhnwl",
+										"updated": "20220708111456"
+									},
+									"Children": [
+										{
+											"ID": "20220708111435-pfbzbnj",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220708111435-pfbzbnj",
+												"updated": "20220708111456"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Reinitialize the data repo key. After initializing the key on one device, other devices import the key"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220708111435-rsas3a7",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "NC4=",
+										"Num": 4
+									},
+									"Properties": {
+										"id": "20220708111435-rsas3a7",
+										"updated": "20220708111435"
+									},
+									"Children": [
+										{
+											"ID": "20220708111435-i8ykkah",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220708111435-i8ykkah",
+												"updated": "20220708111435"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "The cloud uses the new synchronization directory, the old synchronization directory is no longer available and can be deleted"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220708111435-jjdh23m",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "NS4=",
+										"Num": 5
+									},
+									"Properties": {
+										"id": "20220708111435-jjdh23m",
+										"updated": "20220708111435"
+									},
+									"Children": [
+										{
+											"ID": "20220708111435-yrc4wlj",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220708111435-yrc4wlj",
+												"updated": "20220708111435"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "The existing cloud snapshots are no longer available and can be deleted"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20201224120448-0rqote3",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20201224120448-0rqote3"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Do I need to pay for it?"
+				}
+			]
+		},
+		{
+			"ID": "20201224120448-20hmjfc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20201224120448-20hmjfc",
+				"updated": "20220703000708"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Local functions are completely free to use, "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "a",
+					"TextMarkAHref": "https://b3log.org/siyuan/pricing.html",
+					"TextMarkTextContent": "Cloud services"
+				},
+				{
+					"Type": "NodeText",
+					"Data": " requires annual subscription."
+				}
+			]
+		},
+		{
+			"ID": "20220703000434-rpabrb5",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220703000434-rpabrb5",
+				"updated": "20220820000523"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Currently, only users in mainland China are supported to subscribe. For users in non-mainland China regions, please follow "
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "a",
+					"TextMarkAHref": "https://github.com/siyuan-note/siyuan/issues/5331",
+					"TextMarkTextContent": "Cloud service supports non-mainland China regions"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "."
+				}
+			]
+		}
+	]
+}
